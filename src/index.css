@@ -140,6 +140,10 @@ a:focus {
   padding: 0.7em 0;
 }
 
+.footer__icon a {
+  color: #297fe5;
+}
+
 .footer i {
   transition: scale 0.2s ease-in-out;
 }
@@ -189,6 +193,10 @@ a:focus {
 
   .info__photo {
     margin-top: 3em;
+  }
+
+  .info__btn:hover {
+    scale: 1.1;
   }
 
   .info {
